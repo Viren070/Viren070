@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Viren070's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viren070)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Viren070/Viren070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
