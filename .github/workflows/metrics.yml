@@ -23,9 +23,8 @@ jobs:
           plugin_achievements: yes
           plugin_anilist: yes
           plugin_anilist_user: Viren070
-          plugin_anilist_sections: watching, reading
+          plugin_anilist_sections: watching
           plugin_anilist_limit: 5
-          plugin_anilist_shuffle: no
           plugin_activity: yes
           plugin_activity_visibility: public
           plugin_habits: yes
